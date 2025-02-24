@@ -29,4 +29,4 @@ We welcome contributors! If you're interested in collaborating:
 - [LinkedIn](loading.com)
 - [FaceBook](loading.com)
 - [Instagram](loading.com)
-- [X](loading.com)
+
