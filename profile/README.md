@@ -28,5 +28,4 @@ We welcome contributors! If you're interested in collaborating:
 - 🌐 [Website](https://maisonsavoir.com)
 - [LinkedIn](loading.com)
 - [FaceBook](loading.com)
-- [Instagram](loading.com)
 
