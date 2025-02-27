@@ -24,7 +24,3 @@ We welcome contributors! If you're interested in collaborating:
 3. **Join** discussions in the Issues tab.
 
 ## Connect With Us
-
-- 🌐 [Website](https://maisonsavoir.com)
-- [LinkedIn](loading.com)
-- [FaceBook](loading.com)
